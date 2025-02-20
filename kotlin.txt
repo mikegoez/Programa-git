@@ -1,1 +1,2 @@
-Nombre:Miguel Gomez,correo[D[D[D[D[C[C[C[C[C[C[C[D:gomezmiguel088@gmail.com
+Nombre:Miguel Gomez
+correo:gomezmiguel088@gmail.com
